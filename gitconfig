@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ediazshaw@gmail.com
+	name = eduardo diaz
